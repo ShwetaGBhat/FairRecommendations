@@ -13,3 +13,4 @@ node2vec>=0.4.3
 matplotlib>=3.4.1
 djangorestframework-jwt>=1.10.0
 pip>=10.0.1
+django-heroku>=0.3.1
